@@ -61,7 +61,7 @@ Mobile: 320px
 # Colors:
 
 Blue: #6C63FF<br>
-Black: #000000
+Black:
 
 # Design:
 
