@@ -1,14 +1,12 @@
 <br />
 <p align="center">
+  
   <h3 align="center">Work Plin</h3>
-
-  <p align="center">
+    <img align="center" src="design/desktop.png" width="50%" >
+  <p align="center">  
     Aqui você encontrará o melhor co-work online!
        <br />
     <br />
-    <a href="https://github.com/lubomfim/work-plin">Challenge</a>
-    ·
-    <a href="https://www.linkedin.com/in/lubomfim">Contact</a>
   </p>
 </p>
 
@@ -47,8 +45,6 @@ CSS
 
 - Sua página deve se parecer o mais próximo possível do design<br>
 - Sua página deve ser responsiva<br>
-
-<img src="design/desktop.png" width="380">
 
 - Você pode encontrar o design aqui: <a href="https://www.figma.com/file/m95CWMbgT372P5ytrlSluF/Work-Plin?node-id=0%3A1">Figma</a>
 - You can find the design here: <a href="https://www.figma.com/file/m95CWMbgT372P5ytrlSluF/Work-Plin?node-id=0%3A1">Figma</a>
